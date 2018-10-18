@@ -1,2 +1,2 @@
-# SY301
-includes summer and classtime work
+# SY301 Summer cpp
+programs from the summer
